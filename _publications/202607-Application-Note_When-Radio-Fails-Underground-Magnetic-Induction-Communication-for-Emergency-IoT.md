@@ -1,3 +1,4 @@
+category: "Application Note"
 ---
 title: "When Radio Fails Underground: Magnetic Induction Communication for Emergency IoT"
 collection: publications
